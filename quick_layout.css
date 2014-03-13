@@ -1,3 +1,36 @@
+/*!
+* by zhangxinxu(.com) 2014
+* under MIT license
+*/
+
+/* 
+ * buttons
+*/
+.btn { display: inline-block; padding: .5em 1em; border: 0 none; border: 1px solid rgba(0,0,0,.25); border-radius: 0.3em; background-image: none; box-shadow: 0 1px rgba(0,0,0,.15), inset 0 1px rgba(255,255,255,.15); color: #fff; text-align: center; text-decoration: none; text-shadow: 1px 1px rgba(0,0,0,.1); font-size: 100%; font-family: inherit; font-weight: inherit; white-space: nowrap; -webkit-user-select: none; -moz-user-select: none; user-select: none; overflow: visible; cursor: pointer; }
+.btn:hover, .btn:focus { text-decoration: none; background-image: linear-gradient(to bottom, rgba(0,0,0,.1), rgba(0,0,0,.1)); }
+.btn:focus { outline: thin dotted; outline: 5px auto -webkit-focus-ring-color; outline-offset: -2px; }
+.btn:active { box-shadow: 0 1px rgba(0,0,0,.2), inset 0 1px rgba(0,0,0,.05); outline: none; }
+
+.btn_navy { background-color: #001f3f; }
+.btn_blue { background-color: #0074d9; }
+.btn_aqua { background-color: #7fdbff; }
+.btn_teal { background-color: #39cccc; }
+.btn_olive { background-color: #3d9970; }
+.btn_green { background-color: #2ecc40; }
+.btn_lime { background-color: #01ff70; }
+.btn_yellow { background-color: #ffdc00; }
+.btn_orange { background-color: #ff851b; }
+.btn_red { background-color: #ff4136; }
+.btn_fuchsia { background-color: #f012be; }
+.btn_purple { background-color: #b10dc9; }
+.btn_maroon { background-color: #85144b; }
+.btn_white { background-color: #ffffff; }
+.btn_gray { background-color: #aaaaaa; }
+.btn_silver { background-color: #dddddd; }
+.btn_black { background-color: #111111; }
+
+.btn_white, .btn_silver { color: #111111;  text-shadow: none; }
+
 /*!**
    colors.css v1.0
    http://clrs.cc
@@ -49,44 +82,11 @@
 /* Prettier Links */
 a { color: #0074d9; text-decoration: none; }
 a:hover { text-decoration: underline; }
-/*!
-* by zhangxinxu(.com) 2014
-* under MIT license
-*/
-
-/* 
- * buttons
-*/
-.btn { display: inline-block; padding: .5em 1em; border: 0 none; border: 1px solid rgba(0,0,0,.25); border-radius: 0.3em; background-image: none; box-shadow: 0 1px rgba(0,0,0,.15), inset 0 1px rgba(255,255,255,.15); color: #fff; text-align: center; text-decoration: none; text-shadow: 1px 1px rgba(0,0,0,.1); font-size: 100%; font-family: inherit; font-weight: inherit; white-space: nowrap; -webkit-user-select: none; -moz-user-select: none; user-select: none; overflow: visible; }
-a.btn, input.btn { cursor: pointer; }
-a.btn:hover, input.btn:hover, .btn:focus, input.btn:focus { text-decoration: none; background-image: linear-gradient(to bottom, rgba(0,0,0,.1), rgba(0,0,0,.1)); }
-.btn:focus { outline: thin dotted; outline: 5px auto -webkit-focus-ring-color; outline-offset: -2px; }
-.btn:active { box-shadow: 0 1px rgba(0,0,0,.2), inset 0 1px rgba(0,0,0,.05); outline: none; }
-
-.btn_navy { background-color: #001f3f; }
-.btn_blue { background-color: #0074d9; }
-.btn_aqua { background-color: #7fdbff; }
-.btn_teal { background-color: #39cccc; }
-.btn_olive { background-color: #3d9970; }
-.btn_green { background-color: #2ecc40; }
-.btn_lime { background-color: #01ff70; }
-.btn_yellow { background-color: #ffdc00; }
-.btn_orange { background-color: #ff851b; }
-.btn_red { background-color: #ff4136; }
-.btn_fuchsia { background-color: #f012be; }
-.btn_purple { background-color: #b10dc9; }
-.btn_maroon { background-color: #85144b; }
-.btn_white { background-color: #ffffff; }
-.btn_gray { background-color: #aaaaaa; }
-.btn_silver { background-color: #dddddd; }
-.btn_black { background-color: #111111; }
-
-.btn_white, .btn_silver { color: #111111;  text-shadow: none; }
 
 
 /*!
 * by zhangxinxu(.com) 2010-?
-* under MIT license
+* base on [https://github.com/zhangxinxu/zxx.lib.css]
 */
 
 /* ---------------------single CSS----------------------- */
