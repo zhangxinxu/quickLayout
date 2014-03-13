@@ -53,7 +53,7 @@ quickLayout.css - 快速布局，超乎想象!
 适用于
 -------------------
 用户：适用于有经验的CSS开发制作人员。<br>
-场景：Demo演示页面，API文档页面、实现交互原型页面，内网页面等。如果您想用在对外项目上，<a href="https://github.com/zhangxinxu/zxx.lib.css">zhangxinxu/zxx.lib.css</a>更适合^_^。
+场景：Demo演示页面，API文档页面、交互原型页面，内网页面等。如果您想用在对外项目上，<a href="https://github.com/zhangxinxu/zxx.lib.css">zhangxinxu/zxx.lib.css</a>更适合——当作强力辅助催化剂^_^。
 
 注意事项
 --------------------
