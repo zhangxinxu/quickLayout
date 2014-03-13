@@ -14,7 +14,7 @@ Click <a href="http://www.zhangxinxu.com/sp/quicklayout/">here</a>. You can choo
 
 Fit for
 -------------------
-USER: experienced CSS developer
+USER: experienced CSS developer<br>
 SCENE: Demo, API document, Interactive prototypes, Internal pages and so on.
 
 Note
@@ -33,7 +33,7 @@ under MIT License
 
 <br><br><br><br>
 
-/*------------------------EN---------divide|分隔----------CH---------------------------*/
+/*------------------------EN---------divide/分隔----------CH---------------------------*/
 <br><br><br>
 
 quickLayout.css - 快速布局，超乎想象!
@@ -52,14 +52,14 @@ quickLayout.css - 快速布局，超乎想象!
 
 适用于
 -------------------
-用户：适用于有经验的CSS开发制作人员。
+用户：适用于有经验的CSS开发制作人员。<br>
 场景：Demo演示页面，API文档页面、实现交互原型页面，内网页面等。如果您想用在对外项目上，<a href="https://github.com/zhangxinxu/zxx.lib.css">zhangxinxu/zxx.lib.css</a>更适合^_^。
 
 注意事项
 --------------------
 1. CSS务必放在所有CSS的最后，以发挥最大的功效；
 2. 命名不要采用类似<code>.a > .b</code> 或 <code>.a + .b</code>, 直接<code>.a</code>, <code>.b</code>.
-3. 一些组件的核心部分切勿使用任何quickLayout的CSS, 包括皮肤。
+3. 一些组件（导航、时间选择器、选项卡等）的核心部分切勿使用任何quickLayout的CSS, 包括皮肤。
 
 更多信息
 -------------------------------
